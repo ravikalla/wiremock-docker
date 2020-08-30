@@ -1,0 +1,19 @@
+{
+    "id" : "bd08db7e-b35a-4325-bb63-784d35dfb1f5",
+    "name" : "get",
+    "request" : {
+      "url" : "/get1",
+      "method" : "GET"
+    },
+    "response" : {
+      "status" : 200,
+      "body" : "Response1",
+      "headers" : {
+        "Date" : "Sun, 30 Aug 2020 04:04:34 GMT",
+        "Content-Type" : "application/json",
+        "Server" : "gunicorn/19.9.0"
+      }
+    },
+    "uuid" : "bd08db7e-b35a-4325-bb63-784d35dfb1f5",
+    "persistent" : true
+  }
