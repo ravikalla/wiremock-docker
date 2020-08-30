@@ -14,7 +14,7 @@
 ### URLs:
  * Sample recording responses:
    * [http://localhost:8150/get1](http://localhost:8150/get1)
-   * [http://localhost:8150/get1](http://localhost:8150/get2)
-   * [http://localhost:8150/get1](http://localhost:8150/get3)
+   * [http://localhost:8150/get2](http://localhost:8150/get2)
+   * [http://localhost:8150/get3](http://localhost:8150/get3)
  * View All Mappings: [http://localhost:8150/__admin/mappings](http://localhost:8150/__admin/mappings)
  * Recorder Page: [http://localhost:8150/__admin/recorder/](http://localhost:8150/__admin/recorder/)
