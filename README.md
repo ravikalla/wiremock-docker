@@ -18,4 +18,3 @@
    * [http://localhost:8150/get1](http://localhost:8150/get3)
  * View All Mappings: [http://localhost:8150/__admin/mappings](http://localhost:8150/__admin/mappings)
  * Recorder Page: [http://localhost:8150/__admin/recorder/](http://localhost:8150/__admin/recorder/)
-   
