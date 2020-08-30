@@ -6,10 +6,10 @@
 ### Command to start Wiremock
 
 ##### Start local image
-`docker run --name wiremockdocker -p 8080:8080 ravikalla/wiremock-docker:1.0`
+`docker run --name wiremockdocker -p 8080:8080 -d ravikalla/wiremock-docker:1.0`
 
 ##### Start image from Dockerhub
-`docker run --name wiremockdocker -p 8080:8080 ravikalla/wiremock-docker`
+`docker run --name wiremockdocker -p 8080:8080 -d ravikalla/wiremock-docker`
 
 ### URLs:
  * Sample recording responses:
